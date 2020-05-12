@@ -1,6 +1,8 @@
 # shmirot
 
-Website developed during HackExtend Hackathon. My role was the back-end developer. The back-end was built in Python and Flask. The website divides the given timeframe into equal shift slots and arranges the shifts by the way the client chooses. The user can save the group on the website and generate a new duty roster for it later. Saved groups can also be edited, by adding or removing members or changing names. The front-end was built in Vue.JS and Element-UI
+Website developed during HackExtend Hackathon.
+
+My role was the back-end developer. The back-end was built in Python and Flask. The website divides the given timeframe into equal shift slots and arranges the shifts by the way the client chooses. The user can save the group on the website and generate a new duty roster for it later. Saved groups can also be edited, by adding or removing members or changing names. The front-end was built in Vue.JS and Element-UI
 
 
 
